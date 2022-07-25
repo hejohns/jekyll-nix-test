@@ -1,0 +1,14 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    bundix (2.5.0)
+      bundler (>= 1.11)
+
+PLATFORMS
+  x86_64-linux
+
+DEPENDENCIES
+  bundix (~> 2.5)
+
+BUNDLED WITH
+   2.3.18
